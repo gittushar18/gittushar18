@@ -1,4 +1,4 @@
-# Hi there, I'm gittushar18 👋
+# Hi there, I'm Tushar Sahu 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating elegant solutions to complex problems. This space showcases my work, contributions, and journey in the tech world.
 
