@@ -62,7 +62,7 @@ Here are some of my notable projects:
 I'm always happy to collaborate and connect with fellow developers! Feel free to reach out:
 
 - 📧 Email: tusharsahujsp@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/tushar-sahu)
+- 🔗 LinkedIn: [Tushar Sahu](https://linkedin.com/in/tushar-sahu-679590326)
 
 ---
 
