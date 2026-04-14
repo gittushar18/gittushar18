@@ -53,6 +53,8 @@ Here are some of my notable projects:
 
 - **[CODSOFT](https://github.com/gittushar18/CODSOFT)** - A collection of machine learning and data science projects from the CODSOFT internship program.
 
+- **[Python Programming](https://github.com/gittushar18/Python_Programming)** - A collection of GUI-based Python applications including voice assistant, BMI tracker, password generator, weather app, and chat system demonstrating practical development skills.
+
 ---
 
 ## 🤝 Let's Connect
@@ -60,7 +62,7 @@ Here are some of my notable projects:
 I'm always happy to collaborate and connect with fellow developers! Feel free to reach out:
 
 - 📧 Email: tusharsahujsp@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/tushar-sahu)
 
 ---
 
