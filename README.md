@@ -51,7 +51,8 @@ Here are some of my notable projects:
 
 - **[Codealpha Calculator](https://github.com/gittushar18/codealpha_build_a_calculator)** - A functional calculator application built with HTML, CSS, and JavaScript.
 
-- **[CODSOFT](https://github.com/gittushar18/CODSOFT)** - A collection of machine learning and data science projects from the CODSOFT internship program.
+- **[CODSOFT](https://github.com/gittushar18/CODSOFT)** - Developed machine learning models for classification and regression tasks including survival prediction, sales forecasting, movie rating prediction, iris classification, and credit card fraud detection using real-world datasets
+
 
 - **[Python Programming](https://github.com/gittushar18/Python_Programming)** - A collection of GUI-based Python applications including voice assistant, BMI tracker, password generator, weather app, and chat system demonstrating practical development skills.
 
